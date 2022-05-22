@@ -1,0 +1,21 @@
+{
+  "name": "playwrighttestframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyGoStar/playWrightTestFramework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyGoStar/playWrightTestFramework/issues"
+  },
+  "homepage": "https://github.com/tonyGoStar/playWrightTestFramework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.22.1"
+  }
+}
